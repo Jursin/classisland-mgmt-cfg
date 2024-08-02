@@ -2,15 +2,15 @@
     "ServerKind": 0,
     "OrganizationName": "Hello",
     "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/jhwsx53/classisland-mgmt-cfg/master/classplans.json",
+        "Value": "https://raw.githubusercontent.com/jhwsx53/classisland-mgmt-cfg/master/{id}/Default.json",
         "Version": 1
     },
     "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/jhwsx53/classisland-mgmt-cfg/master/timelayouts.json",
+        "Value": "https://raw.githubusercontent.com/jhwsx53/classisland-mgmt-cfg/master/{id}/Default.json",
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/jhwsx53/classisland-mgmt-cfg/master/subjects.json",
+        "Value": "https://raw.githubusercontent.com/jhwsx53/classisland-mgmt-cfg/master/{id}/Default.json",
         "Version": 1
     },
     "PolicySource": {

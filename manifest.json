@@ -16,4 +16,5 @@
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/jhwsx53/classisland-mgmt-cfg/master/policy.json",
         "Version": 1
+    }
 }

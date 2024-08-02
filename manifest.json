@@ -6,7 +6,7 @@
         "Version": 3
     },
     "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/jhwsx53/classisland-mgmt-cfg/master/Default.json",
+        "Value": "https://raw.githubusercontent.com/jhwsx53/classisland-mgmt-cfg/master/timelayouts.json",
         "Version": 3
     },
     "SubjectsSource": {
